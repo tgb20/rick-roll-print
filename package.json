@@ -1,0 +1,16 @@
+{
+  "name": "rick-roll-print",
+  "version": "1.0.0",
+  "description": "Prints the lyrics to Rick Astley - Never Gonna Give You Up on a receipt printer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@thiagoelg/node-printer": "^0.6.2",
+    "node-thermal-printer": "^4.1.2"
+  },
+  "keywords": [],
+  "author": "Jacob Bashista",
+  "license": "MIT"
+}
